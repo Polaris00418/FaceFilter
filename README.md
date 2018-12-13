@@ -43,36 +43,36 @@ These demonstration are included in this repository. So they are released under 
 
 * THREE.JS based demos - [specific README about THREE.js based demo problems](demos/threejs/):
   * Boilerplates:
-    * Boilerplate (displays a cube on the user's head): [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/cube/), [source code](/demos/threejs/cube/)
-    * Same boilerplate but using `dist/NNClight.json` as neural net: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/cubeNNClight/), [source code](/demos/threejs/cubeNNClight/)
-    * Same boilerplate but using `dist/NNCwideAngles.json` as neural net: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/cubeNNCwideAngles/), [source code](/demos/threejs/cubeNNCwideAngles/)
-    * Boilerplate with ES6 instead of ES5: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/cubeES6/), [source code](/demos/threejs/cubeES6/)
-    * Multiple face tracking: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/multiCubes/), [source code](/demos/threejs/multiCubes/)
-    * GLTF fullscreen demo with HD video: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/gltf_fullScreen/), [source code](/demos/threejs/gltf_fullScreen/)
-    * Boilerplate with 2 canvas: 1 for FaceFilter and 1 for THREE.JS (not recommended): [live demo](https://polaris00418.github.io/FaceFilter/demos/faceFilter/demos/threejs/cube2cv/), [source code](/demos/threejs/cube2cv/)
+    * Boilerplate (displays a cube on the user's head): [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/cube/)
+    * Same boilerplate but using `dist/NNClight.json` as neural net: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/cubeNNClight/)
+    * Same boilerplate but using `dist/NNCwideAngles.json` as neural net: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/cubeNNCwideAngles/)
+    * Boilerplate with ES6 instead of ES5: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/cubeES6/)
+    * Multiple face tracking: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/multiCubes/)
+    * GLTF fullscreen demo with HD video: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/gltf_fullScreen/)
+    * Boilerplate with 2 canvas: 1 for FaceFilter and 1 for THREE.JS (not recommended)
     
   
   * AR 3D demos:
     * Daft Punk (put the iconic helmet): [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/daft_punk/)
     * Star Wars: Darth Vader: [live demo](https://polaris00418.github.io/FaceFilter/demos/faceFilter/demos/threejs/star_wars/)
     * Harry Potter (say "Lumos!"): [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/harry_potter/)
-    * Halloween Spiders (you've got a spider in your mouth): [live demo](https://polaris00418.github.io/FaceFilter/demos/faceFilter/demos/threejs/halloween_spider/), [source code](/demos/threejs/halloween_spiders)
-    * Werewolf (turn yourself into a werewolf): [live demo](https://polaris00418.github.io/FaceFilter/demos/faceFilter/demos/threejs/werewolf/), [source code](/demos/threejs/werewolf)
-    * Angel/Demon (discover who of the angel or demon will win in this animated scene): [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/angel_demon/), [source code](/demos/threejs/angel_demon)
-    * Anonymous mask and video effect: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/anonymous/), [source code](/demos/threejs/anonymous)
-    * Rupy Motorcycle Helmet VTO: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/rupy_helmet/), [source code](/demos/threejs/rupy_helmet)
-    * Dog: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/dog_face/), [source code](/demos/threejs/dog_face)
-    * Butterflies animation: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/butterflies/), [source code](/demos/threejs/butterflies/)
-    * Clouds above the head: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/cloud/), [source code](/demos/threejs/cloud/)
-    * Casa-de-Papel mask: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/casa_de_papel/), [source code](/demos/threejs/casa_de_papel/)
-    * Miel Pops glasses and bees: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/miel_pops/), [source code](/demos/threejs/miel_pops/)
-    * Football makeup: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/football_makeup/), [source code](/demos/threejs/football_makeup/)
-    * Tiger face filter with mouth opening detection (strong WTF effect): [live demo](https://polaris00418.github.io/FaceFilter/demos/faceFilter/demos/threejs/tiger/), [source code](/demos/threejs/tiger/)
-    * Fireworks - particules: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/fireworks/), [source code](/demos/threejs/fireworks/)
+    * Halloween Spiders (you've got a spider in your mouth): [live demo](https://polaris00418.github.io/FaceFilter/demos/faceFilter/demos/threejs/halloween_spider/)
+    * Werewolf (turn yourself into a werewolf): [live demo](https://polaris00418.github.io/FaceFilter/demos/faceFilter/demos/threejs/werewolf/)
+    * Angel/Demon (discover who of the angel or demon will win in this animated scene): [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/angel_demon/)
+    * Anonymous mask and video effect: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/anonymous/)
+    * Rupy Motorcycle Helmet VTO: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/rupy_helmet/)
+    * Dog: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/dog_face/)
+    * Butterflies animation: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/butterflies/)
+    * Clouds above the head: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/cloud/)
+    * Casa-de-Papel mask: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/casa_de_papel/)
+    * Miel Pops glasses and bees: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/miel_pops/)
+    * Football makeup: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/football_makeup/)
+    * Tiger face filter with mouth opening detection (strong WTF effect): [live demo](https://polaris00418.github.io/FaceFilter/demos/faceFilter/demos/threejs/tiger/)
+    * Fireworks - particules: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/fireworks/)
   
   * face painting or deformation:
-    * Face deformation: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/faceDeform/), [source code](/demos/threejs/faceDeform/)
-    * Face cel shading: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/celFace/), [source code](/demos/threejs/celFace/)
+    * Face deformation: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/faceDeform/)
+    * Face cel shading: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/celFace/)
 
   * demos linked with tutorials:
     * Luffy's Hat: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/luffys_hat_part2/), [source code part 1](/demos/threejs/luffys_hat_part1/), [tutorial part 1](https://jeeliz.com/blog/creating-a-snapchat-like-filter-with-jeelizs-facefilter-api-part-1-creating-your-first-filter/), [source code part 2](/demos/threejs/luffys_hat_part2/), [tutorial part 2](https://jeeliz.com/blog/creating-a-snapchat-like-filter-with-jeelizs-facefilter-api-part-2-user-interactions-and-particles/)
