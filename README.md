@@ -77,7 +77,7 @@ Here are the main features of the library:
 These demonstration are included in this repository. So they are released under the [FaceFilter licence](#license). You will probably find among them the perfect starting point to build your own face based augmented reality application:
 
 * BABYLON.JS based demos:
-  * Boilerplate (displays a cube on the user's head): [live demo](https://jeeliz.com/demos/faceFilter/demos/babylonjs/cube/), [source code](/demos/babylonjs/cube/)
+  * Boilerplate (displays a cube on the user's head): [live demo](https://polaris00418.github.io/FaceFilter/demos/babylonjs/cube/)
 
 * THREE.JS based demos - [specific README about THREE.js based demo problems](demos/threejs/):
   * Boilerplates:
