@@ -75,38 +75,37 @@ These demonstration are included in this repository. So they are released under 
     * Face cel shading: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/celFace/)
 
   * demos linked with tutorials:
-    * Luffy's Hat: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/luffys_hat_part2/), [source code part 1](/demos/threejs/luffys_hat_part1/), [tutorial part 1](https://jeeliz.com/blog/creating-a-snapchat-like-filter-with-jeelizs-facefilter-api-part-1-creating-your-first-filter/), [source code part 2](/demos/threejs/luffys_hat_part2/), [tutorial part 2](https://jeeliz.com/blog/creating-a-snapchat-like-filter-with-jeelizs-facefilter-api-part-2-user-interactions-and-particles/)
-    * Statue Of Liberty: [live demo](https://polaris00418.github.io/FaceFilter/demos/faceFilter/demos/threejs/multiLiberty/), [source code](/demos/threejs/multiLiberty/), [interactive tutorial](https://webglacademy.jeeliz.com/courses.php?courses=19_25_27_33_34#34)
-    * Matrix: [live demo](https://polaris00418.github.io/FaceFilter/demos/faceFilter/demos/threejs/matrix/), [source code](/demos/threejs/matrix/), [tutorial in French](https://xavierbourry.developpez.com/filtre-facial-webcam/), [tutorial in English](https://jeeliz.com/blog/tutorial-javascript-webgl-webcam-facial-filter-on-the-theme-of-matrix/)
+    * Luffy's Hat: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/luffys_hat_part2/)
+    * Statue Of Liberty: [live demo](https://polaris00418.github.io/FaceFilter/demos/faceFilter/demos/threejs/multiLiberty/)
+    * Matrix: [live demo](https://polaris00418.github.io/FaceFilter/demos/faceFilter/demos/threejs/matrix/)
 
   * misc:
-    * Head controlled navigation: [live demo](https://polaris00418.github.io/FaceFilter/demos/faceFilter/demos/threejs/headControls/), [source code](/demos/threejs/headControls/)
-    * Glasses virtual try-on: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/VTO/), [source code](/demos/threejs/VTO/)
-
+    * Head controlled navigation: [live demo](https://polaris00418.github.io/FaceFilter/demos/faceFilter/demos/threejs/headControls/)
+    * Glasses virtual try-on: [live demo](https://polaris00418.github.io/FaceFilter/demos/threejs/VTO/)
 
 * A-FRAME based demos:
-  * Boilerplate (displays a cube on the user's head): [live demo](https://polaris00418.github.io/FaceFilter/demos/faceFilter/demos/aFrame/cube/), [source code](/demos/aFrame/cube/)
+  * Boilerplate (displays a cube on the user's head): [live demo](https://polaris00418.github.io/FaceFilter/demos/faceFilter/demos/aFrame/cube/)
   
 * CSS3D based demos:
-  * Boilerplate (displays a `<DIV>` element on the user's head): [live demo](https://polaris00418.github.io/FaceFilter/demos/faceFilter/demos/CSS3D/div/), [source code](/demos/CSS3D/div/)
-  * Comedy glasses demo: [live demo](https://polaris00418.github.io/FaceFilter/demos/CSS3D/comedy-glasses/), [source code](/demos/CSS3D/comedy-glasses/)
+  * Boilerplate (displays a `<DIV>` element on the user's head): [live demo](https://polaris00418.github.io/FaceFilter/demos/faceFilter/demos/CSS3D/div/)
+  * Comedy glasses demo: [live demo](https://polaris00418.github.io/FaceFilter/demos/CSS3D/comedy-glasses/)
 
 * Canvas2D based demos:
-  * Draw on the face with the mouse: [live demo](https://polaris00418.github.io/FaceFilter/demos/canvas2D/faceDraw/), [source code](/demos/canvas2D/faceDraw/)
-  * 2D face detection and tracking - 30 lines of code only !: [live demo](https://polaris00418.github.io/FaceFilter/demos/canvas2D/faceTrack/), [source code](/demos/canvas2D/faceTrack/), [JSfiddle](https://jsfiddle.net/jeeliz/2p34hbeh/)
-  * 2D face detection and tracking from a video file instead of webcam video: [live demo](https://polaris00418.github.io/FaceFilter/demos/canvas2D/fromVideoFile/), [source code](/demos/canvas2D/fromVideoFile/)
+  * Draw on the face with the mouse: [live demo](https://polaris00418.github.io/FaceFilter/demos/canvas2D/faceDraw/)
+  * 2D face detection and tracking - 30 lines of code only !: [live demo](https://polaris00418.github.io/FaceFilter/demos/canvas2D/faceTrack/)
+  * 2D face detection and tracking from a video file instead of webcam video: [live demo](https://polaris00418.github.io/FaceFilter/demos/canvas2D/fromVideoFile/)
 
 * CESIUM.JS based demos:
-  * 3D view of the Earth with head controlled navigation: [live demo](https://polaris00418.github.io/FaceFilter/demos/faceFilter/demos/cesium/headControls/), [source code](/demos/cesium/headControls/), [article about the demo](https://cesium.com/blog/2018/03/22/jeeliz-and-cesium/)
+  * 3D view of the Earth with head controlled navigation: [live demo](https://polaris00418.github.io/FaceFilter/demos/faceFilter/demos/cesium/headControls/)
 
 * Face replacement demos:
-  * Insert your face into portrait art painting or film posters: [live demo](https://polaris00418.github.io/FaceFilter/demos/faceFilter/demos/faceReplacement/image), [source code](demos/faceReplacement/image/)
-  * Insert your face into an animated gif: [live demo](https://polaris00418.github.io/FaceFilter/demos/faceReplacement/gif), [specific README](/demos/faceReplacement/gif/README.md), [source code](demos/faceReplacement/gif/)
-  * The traditional faceSwap, fullscreen and with color correction: [live demo](https://polaris00418.github.io/FaceFilter/demos/faceReplacement/faceSwap/), [source code](demos/faceReplacement/faceSwap/)
+  * Insert your face into portrait art painting or film posters: [live demo](https://polaris00418.github.io/FaceFilter/demos/faceFilter/demos/faceReplacement/image)
+  * Insert your face into an animated gif: [live demo](https://polaris00418.github.io/FaceFilter/demos/faceReplacement/gif)
+  * The traditional faceSwap, fullscreen and with color correction: [live demo](https://polaris00418.github.io/FaceFilter/demos/faceReplacement/faceSwap/)
 
 * Head motion control:
-  * PACMAN game with head controlled navigation: [live demo](https://polaris00418.github.io/FaceFilter/demos/pacman/), [source code](demos/pacman/)
-  * Head controlled mouse cursor: [live demo](https://polaris00418.github.io/FaceFilter/demos/headCursor/), [source code](demos/headCursor/)
+  * PACMAN game with head controlled navigation: [live demo](https://polaris00418.github.io/FaceFilter/demos/pacman/)
+  * Head controlled mouse cursor: [live demo](https://polaris00418.github.io/FaceFilter/demos/headCursor/)
 
 
 
